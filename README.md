@@ -1,6 +1,6 @@
 # Python for Data Science
 
-## Python for Data Professional Beginner
+## Python for Data Professional
 
 - **Perhitungan Biaya Transportasi Mobil Plat Ganjil dan Genap**
 
@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/88588162/128604929-0504590c-3820-469d-bc7a-6991aa5836ca.png)
 
-## Exploratory Data Analysis with Python for Beginner
+## Exploratory Data Analysis with Python
 
 - **Analisis Data Eksplorasi untuk Data Penjualan**
 
@@ -23,7 +23,7 @@
 - [x] Menentukan berapa rata-rata weight produk tersebut dan standar deviasi mana yang terkecil dari weight tersebut untuk setiap product_category_name
 - [x] Membuat histogram quantity penjualan dari dataset tersebut untuk melihat persebaran quantity penjualan
 
-## Data Visualization with Python Matplotlib for Beginner
+## Data Visualization with Python Matplotlib
 
 - **Pembuatan Visualisasi Daily Number of Customer in Certain Month**
 
