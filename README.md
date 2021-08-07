@@ -33,3 +33,12 @@
 
 *Membuat scatter plot chart untuk menentukan apa hubungan antara jumlah produk yang terjual dengan median harga produk dari beberapa (n) brand teratas dalam bulan tertentu dari raw file https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced.csv*
 
+**Eksplorasi dan Analisis Data COVID-19 Indonesia using Python**
+
+- **Pembuatan Grafik Kasus Harian Sembuh dari COVID-19 Jawa Barat**
+
+*Membuat bar chart yang menunjukkan total kasus harian pasien yang sembuh dari COVID-19 pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
+
+- **Pembuatan Grafik Dinamika Kasus COVID-19 Jawa Barat**
+
+*Membuat line chart yang menunjukkan akumulasi pasien COVID-19 yang sembuh, masih menderita, dan meninggal pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
