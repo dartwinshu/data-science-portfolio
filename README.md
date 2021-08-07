@@ -17,11 +17,11 @@
 - **Analisis Data Eksplorasi untuk Data Penjualan**
 
 *Menganalisis data-data penjualan dengan stastistik dasar dan membuat histogram sederhana*
-[v] Menentukan median price yang dibayar customer dari masing-masing metode pembayaran
-[v] Menentujab metode pembayaran yang memiliki basket size (rataan median price) terbesar
-[v] Mengubah freight_value menjadi shipping_cost dan cari shipping_cost termahal dari data penjualan tersebut menggunakan sort
-[v] Menentukan berapa rata-rata weight produk tersebut dan standar deviasi mana yang terkecil dari weight tersebut untuk setiap product_category_name
-[v] Membuat histogram quantity penjualan dari dataset tersebut untuk melihat persebaran quantity penjualan
+- [x] Menentukan median price yang dibayar customer dari masing-masing metode pembayaran
+- [x] Menentujab metode pembayaran yang memiliki basket size (rataan median price) terbesar
+- [x] Mengubah freight_value menjadi shipping_cost dan cari shipping_cost termahal dari data penjualan tersebut menggunakan sort
+- [x] Menentukan berapa rata-rata weight produk tersebut dan standar deviasi mana yang terkecil dari weight tersebut untuk setiap product_category_name
+- [x] Membuat histogram quantity penjualan dari dataset tersebut untuk melihat persebaran quantity penjualan
 
 **Data Visualization with Python Matplotlib for Beginner**
 
