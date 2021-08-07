@@ -1,4 +1,4 @@
-# datascience_portfolio
+# datascience_python
 
 **Python for Data Professional Beginner**
 
