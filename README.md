@@ -1,10 +1,8 @@
 # Data Science Portfolio
 
-Hi there! I am Dartwin, a data science enthusiast from Indonesia with background of engineering in Bandung Institute of Technology (2017 - 2021). I have been always excited and hungry for the new knowledge and new skills, especially which can support me in work and can make this world better.
+This repository contains my portfolio of data science experience and projects practiced and completed by me in some online courses, workshops, training or bootcamp.
 
-It has been my habit to be pro-active and initiative to learn and pratice my skills in data science by participating or joining in some online courses, workshops, training or bootcamp. Then I build this repository that containing my portfolio of data science projects ever completed by me before.
-
-## Experience
+## Courses / Trainings / Bootcamps
 
 ### Data Science Training Forum Mahasiswa x DQLab
 
@@ -41,7 +39,7 @@ It has been my habit to be pro-active and initiative to learn and pratice my ski
 
 ## Projects
 
-### Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
+### Indonesian COVID-19 Data Exploration and Analysis using Python
 
 - ***Pembuatan Grafik Kasus Harian Positif COVID-19 Jawa Barat***
 
