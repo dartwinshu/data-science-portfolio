@@ -8,7 +8,7 @@ It has been my habit to be pro-active and initiative to learn and pratice my ski
 
 ### Data Science Training Forum Mahasiswa x DQLab
 
-- **Calculation of Transportation Costs for Odd and Gena Plate Cars**
+- **Calculation of Transportation Costs for Odd and Even Plate Cars**
 
 *Menghitung total biaya transportasi dua mobil dengan plat ganjil dan plat genap dalam satu bulan yang mengikuti aturan ganjil-genap, dimana pada tanggal ganjil (1, 3, 5, 7, dst.) menggunakan mobil dengan plat ganjil dan tanggal genap ( 2, 4, 6, 8, dst.) menggunakan mobil dengan plat genap.*
 
