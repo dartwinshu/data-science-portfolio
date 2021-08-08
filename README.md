@@ -4,7 +4,7 @@ This repository contains my portfolio of data science experience and projects pr
 
 ## Courses / Trainings / Bootcamps
 
-### Data Science Training Forum Mahasiswa x DQLab
+### Data Science Training Forum Mahasiswa APIC x DQLab
 
 - **Calculation of Transportation Costs for Odd and Even Plate Cars**
 
