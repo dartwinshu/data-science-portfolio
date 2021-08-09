@@ -1,10 +1,8 @@
 # Data Science Portfolio
 
-This repository contains my portfolio of data science experience and projects practiced and completed by me in some online courses, workshops, training or bootcamp.
+This repository contains my portfolio of data science experience and projects practiced and completed by me in Forum Mahasiswa APIC x DQLab Data Science Training
 
-## Courses / Trainings / Bootcamps
-
-### Data Science Training Forum Mahasiswa APIC x DQLab
+##  Forum Mahasiswa APIC x DQLab Data Science Training
 
 - **Calculation of Transportation Costs for Odd and Even Plate Cars**
 
@@ -24,6 +22,8 @@ This repository contains my portfolio of data science experience and projects pr
   3. Mengubah freight_value menjadi shipping_cost dan cari shipping_cost termahal dari data penjualan tersebut menggunakan sort
   4. Menentukan berapa rata-rata weight produk tersebut dan standar deviasi mana yang terkecil dari weight tersebut untuk setiap product_category_name
   5. Membuat histogram quantity penjualan dari dataset tersebut untuk melihat persebaran quantity penjualan
+ 
+ ![image](https://user-images.githubusercontent.com/88588162/128666449-a0591437-07d6-4c48-be18-c03d31235b0e.png)
 
 - **Making Visualization of Daily Number of Customers in Certain Month**
 
@@ -37,30 +37,27 @@ This repository contains my portfolio of data science experience and projects pr
 
 ![image](https://user-images.githubusercontent.com/88588162/128620677-ef61e685-63da-433d-b910-cbae11ecc080.png)
 
-## Projects
+- **Indonesian COVID-19 Data Exploration and Analysis using Python**
 
-### Indonesian COVID-19 Data Exploration and Analysis using Python
-
-- ***Pembuatan Grafik Kasus Harian Positif COVID-19 Jawa Barat***
+- [x] Pembuatan Grafik Kasus Harian Positif COVID-19 Jawa Barat
 
 *Membuat bar chart yang menunjukkan total kasus harian pasien yang positif COVID-19 pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
 
 ![image](https://user-images.githubusercontent.com/88588162/128621227-65b22fad-db68-4117-b5fa-d4bee23119bd.png)
 
-- ***Pembuatan Grafik Kasus Harian Sembuh dari COVID-19 Jawa Barat***
+- [x] Pembuatan Grafik Kasus Harian Sembuh dari COVID-19 Jawa Barat
 
 *Membuat bar chart yang menunjukkan total kasus harian pasien yang sembuh dari COVID-19 pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
 
 ![image](https://user-images.githubusercontent.com/88588162/128620711-87efecd9-6e6c-4430-bfde-035ada3a2368.png)
 
-- ***Pembuatan Grafik Kasus Harian Meninggal COVID-19 Jawa Barat***
+- [x] Pembuatan Grafik Kasus Harian Sembuh dari COVID-19 Jawa BaratPembuatan Grafik Kasus Harian Meninggal COVID-19 Jawa Barat
 
 *Membuat bar chart yang menunjukkan total kasus harian pasien yang meninggal COVID-19 pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
 
 ![image](https://user-images.githubusercontent.com/88588162/128621247-3a223cb9-6096-4f5c-bdfd-822ca7fd661a.png)
 
-
-- ***Pembuatan Grafik Dinamika Kasus COVID-19 Jawa Barat***
+- [x] Pembuatan Grafik Kasus Harian Sembuh dari COVID-19 Jawa BaratPembuatan Grafik Dinamika Kasus COVID-19 Jawa Barat
 
 *Membuat line chart yang menunjukkan akumulasi pasien COVID-19 yang sembuh, masih menderita, dan meninggal pada jangka waktu tertentu di Jawa Barat dari sumber https://data.covid19.go.id/public/api/prov_detail_JAWA_BARAT.json*
 
