@@ -1,8 +1,14 @@
-# Data Science Portfolio
+#  Forum Mahasiswa APIC x DQLab Data Science Training
 
-This repository contains my portfolio of data science experience and projects practiced and completed by me in Forum Mahasiswa APIC x DQLab Data Science Training
+This repository contains my portfolio of data science experience and mini projects practiced and completed by me in Forum Mahasiswa APIC x DQLab Data Science Training
 
-##  Forum Mahasiswa APIC x DQLab Data Science Training
+## Curriculum
+1. Python for Data Professional Beginner
+2. Exploratory Data Analysis with Python for Beginner
+3. Data Visualization with Python Matplotlib for Beginner
+4. Explore and Analyze Indonesia COVID-19 Data
+
+## Mini Projects
 
 - **Calculation of Transportation Costs for Odd and Even Plate Cars**
 
